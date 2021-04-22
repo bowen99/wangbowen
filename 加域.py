@@ -6,7 +6,6 @@ import pyautogui
 import pyperclip
 # This is my code,do you kono,yes i konw
 
-
 def copy(str):
     pyperclip.copy(str)
     pyautogui.hotkey('ctrl', 'v')
