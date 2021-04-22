@@ -16,14 +16,6 @@ def hotkey(x, y, *args):
     pyautogui.hotkey(x, y)
 
 
-def send_key(str):
-    '''
-    ^ --> Ctrl
-    % --> Alt
-    '''
-    send_keys(str)
-
-
 def press(x):
     pyautogui.press(x)
 
