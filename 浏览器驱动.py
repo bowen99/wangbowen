@@ -21,6 +21,6 @@ pyperclip.copy("123456")
 pyautogui.hotkey("ctrl", "v")
 time.sleep(2)
 pyautogui.press("enter")
-driver.find_element_by_link_text("材料領料單據開立")
+driver._web_element_cls
 # driver.find_element_by_id("J-password").send_keys("Wang1993")
 # driver.find_element_by_id("J-loginImg").click()
