@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import pyautogui
 import pyperclip
-# This is my code,do you konow
+# This is my code,do you kono
 
 
 def copy(str):
