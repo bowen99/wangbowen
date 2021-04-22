@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import pyautogui
 import pyperclip
-import os
+
 
 
 def copy(str):
